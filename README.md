@@ -20,7 +20,7 @@ also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/
 
 ![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
 
-## Getting Started
+### Getting Started
 
 To get started with this project, follow these steps:
 
